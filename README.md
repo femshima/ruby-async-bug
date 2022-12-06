@@ -1,1 +1,1 @@
-# ruby-async-bug
+# ruby-async-check
